@@ -35,15 +35,7 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A
-LEARNED
-SERMON OF
-THE NATVRE
-OF PRIDE,
-BY
-RICHARD HOOKER, SOMEtimes
-fellow of Corpus Christi
-Colle
+
 #####Body#####
 ABAC. 2. 4.His minde swelleth and is not right in him:
 But the iust by his faith shall liue.THE natu
